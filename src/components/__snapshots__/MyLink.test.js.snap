@@ -1,0 +1,29 @@
+exports[`test Link change the class when hovered 1`] = `
+<a
+  className="normal"
+  href="http://www.google.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Google
+</a>
+`;
+
+exports[`test Link change the class when hovered 2`] = `
+<a
+  className="hovered"
+  href="http://www.google.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Google
+</a>
+`;
+
+exports[`test Link change the class when hovered 3`] = `
+<a
+  className="normal"
+  href="http://www.google.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Google
+</a>
+`;
